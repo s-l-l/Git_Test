@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("你好世界 ver2！");
         System.out.println("你好世界 hot-fix-Update！");
         System.out.println("你好世界  代码冲突master");
+        System.out.println("你好世界 hot-fix冲突！");
     }
 }
