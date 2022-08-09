@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("你好世界  代码冲突master");
         System.out.println("你好世界 hot-fix冲突！");
         System.out.println("我是通过提交过来的呦西！");
+        System.out.println("我是通过github修改的！");
     }
 }
